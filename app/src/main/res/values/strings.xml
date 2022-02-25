@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Mars App Kotlin</string>
+
+    <!-- General -->
+    <string name="cd_image_view_ic_mars">mars app icon</string>
+    <string name="cd_image_button_google">google account button</string>
+    <string name="cd_image_button_facebook">facebook account button</string>
+    <string name="text_view_email">Email</string>
+    <string name="text_view_password">Password</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="text_view_or">or</string>
+
+    <!-- Fragment Splash -->
+    <string name="transition_image_view_ic_mars_small">transition_splash</string>
+
+    <!-- Fragment Welcome -->
+    <string name="text_view_welcome">Welcome</string>
+    <string name="transition_image_view_ic_mars_big">transition_welcome</string>
+
+    <!-- Fragment Login -->
+    <string name="text_view_login">Hello Again</string>
+    <string name="text_view_no_account">Don’t have an account?</string>
+
+    <!-- Fragment Register-->
+    <string name="text_view_register">Get Started</string>
+    <string name="text_view_confirmation_password">Confirm Password</string>
+    <string name="text_view_name">Name</string>
+    <string name="invalid_email">Invalid Email Address</string>
+    <string name="invalid_password_length">Minimum 8 Character Password</string>
+    <string name="invalid_password_upper_case">Must Contain 1 Upper-case Character</string>
+    <string name="invalid_password_lower_case">Must Contain 1 Lower-case Character</string>
+    <string name="invalid_password_special_character">Must Contain 1 Special Character (@#$%^&amp;+=*)</string>
+    <string name="invalid_confirm_password">Different Password</string>
+    <string name="invalid_name">Must contain something</string>
+    <string name="register_user">User has been registered successfully</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

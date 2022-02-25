@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919955975225",
+    "project_id": "mars-app-kotlin",
+    "storage_bucket": "mars-app-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919955975225:android:f2ec75c0282bb7f5ff31e8",
+        "android_client_info": {
+          "package_name": "com.example.marsappkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919955975225-ulm1v8jmkfqsf52vjlrqeq4tpbrbhsif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXmQDrDWLSZEM-dR4aPybhHFLmoV1K_nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919955975225-ulm1v8jmkfqsf52vjlrqeq4tpbrbhsif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
