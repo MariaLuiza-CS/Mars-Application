@@ -11,10 +11,13 @@
         <entry key="..\:/Users/maria/OneDrive/MarsAppKotlin/app/src/main/res/layout/fragment_register.xml" value="0.18" />
         <entry key="..\:/Users/maria/OneDrive/MarsAppKotlin/app/src/main/res/layout/fragment_splash.xml" value="0.1" />
         <entry key="..\:/Users/maria/OneDrive/MarsAppKotlin/app/src/main/res/layout/fragment_welcome.xml" value="0.12" />
+        <entry key="app/src/main/res/drawable/ic_mars.xml" value="0.31851851851851853" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10185185185185185" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.3331755026622129" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
